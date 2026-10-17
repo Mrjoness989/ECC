@@ -48,6 +48,7 @@ skills:
   - cpp-coding-standards
   - cpp-testing
   - crosspost
+  - crypto-day-trading
   - customs-trade-compliance
   - data-scraper-agent
   - database-migrations
@@ -170,6 +171,7 @@ commands:
   - build-fix
   - checkpoint
   - code-review
+  - coin
   - cost-report
   - cpp-build
   - cpp-review
